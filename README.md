@@ -6,7 +6,7 @@
  
 ## 🚀 About Me
 
- 💡 **Innovative Full Stack Developer** | 🎓 **Instructor @ [PIAIC](https://piaic.org)** & [SMIT](https://saylaniwelfareusa.com/services/education/technical-education/saylani-mass-it-training)  
+ 💡 **Innovative Full Stack Developer** |
 I build **scalable web & mobile apps** that blend performance with elegance.  
 Currently exploring **Agentic AI** and mentoring devs to turn skills into income.  
 
@@ -15,13 +15,11 @@ Currently exploring **Agentic AI** and mentoring devs to turn skills into income
 ## 📬 Contact Info
 
 🌐 **Portfolio:** [abuhurairah.dev](https://abuhurairah.dev)  
-🐦 **Twitter:** [@dev_abuhurairah](https://x.com/dev_abuhurairah)  
-💼 **LinkedIn:** [linkedin.com/in/abuhurairah127](https://linkedin.com/in/abuhurairah127)  
-📧 **Email:** [dev.abuhurairah@gmail.com](mailto:dev.abuhurairah@gmail.com)  
-💬 **WhatsApp:** [Message me on WhatsApp](https://wa.me/923207443537)
+🐦 **Twitter:** [@dev_abuhurairah](https://x.com/hussaindev99)  
+💼 **LinkedIn:** [linkedin.com/in/Muhammad_Hussain709502319](https://www.linkedin.com/in/muhammad-hussain-709502319/)  
+📧 **Email:** [naini.dev0@gmail.com](mailto:naini.dev0@gmail.com)  
+💬 **WhatsApp:** [Message me on WhatsApp](https://wa.me/923008243178)
 ## 🔥 My Consistency Graph
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abuhurairah127&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
 
 ## 📊 GitHub Stats  
 
