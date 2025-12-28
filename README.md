@@ -14,8 +14,8 @@ Currently exploring **Agentic AI** and mentoring devs to turn skills into income
 
 ## 📬 Contact Info
 
-🌐 **Portfolio:** [abuhurairah.dev](https://abuhurairah.dev)  
-🐦 **Twitter:** [@dev_abuhurairah](https://x.com/hussaindev99)  
+🌐 **Portfolio:** [hussain_dev](https://abuhurairah.dev)  
+🐦 **Twitter:** [@hussaindev99](https://x.com/hussaindev99)  
 💼 **LinkedIn:** [linkedin.com/in/Muhammad_Hussain709502319](https://www.linkedin.com/in/muhammad-hussain-709502319/)  
 📧 **Email:** [naini.dev0@gmail.com](mailto:naini.dev0@gmail.com)  
 💬 **WhatsApp:** [Message me on WhatsApp](https://wa.me/923008243178)
