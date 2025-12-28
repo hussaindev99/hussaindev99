@@ -99,7 +99,8 @@ Currently exploring **Agentic AI** and mentoring devs to turn skills into income
 
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
    [![Cursor](https://img.shields.io/badge/Cursor-000.svg?style=for-the-badge&logo=cursor&logoColor=white "Cursor")][repo]
-    [![Antigravity](https://img.shields.io/badge/Antigravity-000.svg?style=for-the-badge&logoColor=white "Antigravity")][repo]
+     [![Antigravity](https://img.shields.io/badge/Antigravity-000.svg?style=for-the-badge&logoColor=white&logoUrl=https://raw.githubusercontent.com/antigravity-ai/brand/main/logo.svg "Antigravity")][repo]
+
    
    
 
