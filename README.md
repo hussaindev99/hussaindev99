@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ff9800&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;React+Native+%26+Expo+Lover+%E2%99%A5;Instructor+%40+PIAIC+%26+SMIT;Building+AI-Driven+SaaS+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&weight=600&size=24&pause=1000&color=ff9800&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;React+Native+%26+Expo+Lover+%E2%99%A5;Building+AI-Driven+SaaS+Products
+ />
 </p>
 
 # Hi all, I'm Hussain! 👋
