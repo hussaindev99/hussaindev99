@@ -20,19 +20,6 @@ Currently exploring **Agentic AI** and mentoring devs to turn skills into income
 💼 **LinkedIn:** [linkedin.com/in/Muhammad_Hussain709502319](https://www.linkedin.com/in/muhammad-hussain-709502319/)  
 📧 **Email:** [naini.dev0@gmail.com](mailto:naini.dev0@gmail.com)  
 💬 **WhatsApp:** [Message me on WhatsApp](https://wa.me/923008243178)
-## 🔥 My Consistency Graph
-
-## 📊 GitHub Stats  
-
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbuHurairah127&show_icons=true&theme=codeSTACKr&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuHurairah127&layout=compact&theme=codeSTACKr&hide_border=true" height="180" />
-</p>
-
 
 
 ## 🕸️ **WEB DEV TOOLS**
