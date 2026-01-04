@@ -15,7 +15,7 @@ Currently exploring **Agentic AI** and mentoring devs to turn skills into income
 
 ## 📬 Contact Info
 
-🌐 **Portfolio:** [hussain_portfolio](hussaindev.vercel.app/)  
+🌐 **Portfolio:** [hussain_portfolio](https://hussaiportfolio.vercel.app/)  
 🐦 **Twitter:** [@hussaindev99](https://x.com/hussaindev99)  
 💼 **LinkedIn:** [linkedin.com/in/Muhammad_Hussain709502319](https://www.linkedin.com/in/muhammad-hussain-709502319/)  
 📧 **Email:** [naini.dev0@gmail.com](mailto:naini.dev0@gmail.com)  
