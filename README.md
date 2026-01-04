@@ -35,29 +35,11 @@ Currently exploring **Agentic AI** and mentoring devs to turn skills into income
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/hussaindev99)
 <br />
 
-## 📱 **MOBILE DEV TOOLS**
-
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")](https://github.com/hussaindev99)
-[![Expo](https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo&logoColor=fff "EXPO")](https://github.com/hussaindev99)
-
-
 ## 🍧 **DESIGN TOOLS**
 
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white "Figma")](https://github.com/hussaindev99)
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6 "XD")](https://github.com/hussaindev99)
 [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://github.com/hussaindev99)
-
-
-## ⚙️ **BACKEND DEV TOOLS**
-
-[![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")](https://github.com/hussaindev99)
-[![Express js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge "Express js")](https://github.com/hussaindev99)
-[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")](https://github.com/hussaindev99)
-[![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white "Next.js")](https://github.com/hussaindev99)
-
-## 📅 **DATABASES**
-
-[![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")][repo]
 
 ## 🎯 **PROGRAMMING LANGUAGES**
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")][repo]
@@ -68,21 +50,14 @@ Currently exploring **Agentic AI** and mentoring devs to turn skills into income
 
 ## 🛠️ **DEV TOOLS**
 
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")][repo]
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")][repo]
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white "Npm")][repo]
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman")][repo]
 [![YARN](https://img.shields.io/badge/Yarn-007ACC?style=for-the-badge&logo=yarn&logoColor=white "YARN")][repo]
 
 ## ☁️ **CLOUDS**
 
 [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white "Google Cloud")][repo]
-[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white "Heroku")][repo]
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white "Vercel")][repo]
-[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")][repo]
-[![hostinger](https://img.shields.io/badge/hostinger-%23430098.svg?style=for-the-badge&logo=hostinger&logoColor=white "hostinger")][repo]
-
-
 
 ## 📄 **CODE EDITOR & IDEs**
 
