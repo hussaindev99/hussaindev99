@@ -21,6 +21,9 @@ Currently exploring **Agentic AI** and mentoring devs to turn skills into income
 📧 **Email:** [naini.dev0@gmail.com](mailto:naini.dev0@gmail.com)  
 💬 **WhatsApp:** [Message me on WhatsApp](https://wa.me/923008243178)
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🕸️ **WEB DEV TOOLS**
 
